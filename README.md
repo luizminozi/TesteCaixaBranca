@@ -3,7 +3,7 @@
 
 Dentro do código em questão, utilizando os princípios de qualidade e testes de software, é possível observar alguns possíveis erros e condutas opostas as boas normas de programação.
 
-![operacao](img2.png)
+![operacao](Screenshot_4.png)
 
 1° - Ao falhar na função "Try" seria recomendável que o código imprimisse uma mensagem do erro ocorrido, facilitando manutenções e entendimento de problemas. Isso pode ser resolvido utilizando a função "catch" do Java.
 
